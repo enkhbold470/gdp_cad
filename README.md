@@ -3,6 +3,7 @@
 ## GO Disabled People
 
 ![Screenshot](images/1.JPG)
+## Prototype video
 https://www.loom.com/share/d6ba4b911c4a47fdb4ba29bd1ce95598?sid=698c8be1-3c93-48c5-8fb3-197124e4a65f
 ![Screenshot](images/2.png)
 
