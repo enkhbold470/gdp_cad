@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+To develop a prototype for wheelchair robots, we need to consider various cost factors. Here's a detailed breakdown of the potential costs involved:
 
-## Getting Started
+### 1. **Research and Development**
 
-First, run the development server:
+- **Mechanical Engineering**: Designing the physical structure of the wheelchair robot.
+  - Engineer Salary: $80,000/year
+  - Time: 6 months
+  - Cost: $40,000
+- **Software Development**: Developing the AI and voice command features.
+  - Software Engineer Salary: $90,000/year
+  - Time: 6 months
+  - Cost: $45,000
+- **AI Integration**: Integrating AI features for better user interaction.
+  - AI Specialist Salary: $100,000/year
+  - Time: 6 months
+  - Cost: $50,000
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 2. **Prototyping Materials and Components**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Frame and Body**: Materials for building the physical structure.
+  - Cost: $5,000
+- **Motors and Actuators**: For movement and lifting mechanisms.
+  - Cost: $3,000
+- **Sensors**: For navigation, obstacle detection, and user interaction.
+  - Cost: $2,000
+- **Battery and Power System**: Ensuring the robot has sufficient power.
+  - Cost: $1,500
+- **Control Systems**: Microcontrollers and other electronics.
+  - Cost: $2,000
+- **Voice Command Module**: Hardware and software for voice recognition.
+  - Cost: $1,500
+- **AI Modules**: Components for AI processing.
+  - Cost: $3,000
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 3. **Manufacturing and Assembly**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Prototyping Lab Rental**: Space and equipment for assembling the prototype.
+  - Cost: $5,000
+- **Technician Salary**: For assembling the prototype.
+  - Salary: $50,000/year
+  - Time: 3 months
+  - Cost: $12,500
 
-## Learn More
+### 4. **Testing and Quality Assurance**
 
-To learn more about Next.js, take a look at the following resources:
+- **Initial Testing**: Ensuring the prototype works as intended.
+  - Cost: $3,000
+- **User Testing**: Gathering feedback from potential users (e.g., paralyzed individuals, caregivers).
+  - Cost: $5,000
+- **Iteration and Improvements**: Making adjustments based on feedback.
+  - Cost: $5,000
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 5. **Miscellaneous Costs**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Project Management**: Coordinating the entire development process.
+  - Manager Salary: $70,000/year
+  - Time: 6 months
+  - Cost: $35,000
+- **Legal and Regulatory Compliance**: Ensuring the prototype meets all necessary standards.
+  - Cost: $10,000
 
-## Deploy on Vercel
+### Total Estimated Cost
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Summing up all the individual costs:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. **Research and Development**: $135,000
+2. **Prototyping Materials and Components**: $18,000
+3. **Manufacturing and Assembly**: $17,500
+4. **Testing and Quality Assurance**: $13,000
+5. **Miscellaneous Costs**: $45,000
+
+**Total**: $228,500
+
+### Additional Considerations
+
+- **Contingency Fund**: It's wise to allocate an additional 10-20% of the total cost for unforeseen expenses.
+  - 15% of $228,500: $34,275
+  - Total with Contingency: $262,775
+
+### Final Breakdown with Contingency
+
+- **Total Estimated Cost**: $262,775
+
+This breakdown provides a comprehensive overview of the costs associated with developing a prototype for wheelchair robots. It’s important to conduct further detailed analysis and consultations with experts in each field to refine these estimates.
